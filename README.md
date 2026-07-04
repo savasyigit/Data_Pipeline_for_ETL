@@ -19,7 +19,7 @@ This project is designed as a beginner-friendly example of a real-world ETL work
 ├── top_apps.csv
 ├── etl_pipeline.ipynb
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
